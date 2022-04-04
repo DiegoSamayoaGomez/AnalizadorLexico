@@ -3,7 +3,7 @@ from turtle import right
 from analizador import BasicLexer
 from sly import Lexer
 
-#Función para botones sin programar
+#Función para botones sin programar1
 def btn_clicked():
     print("Botón sin uso")
 
